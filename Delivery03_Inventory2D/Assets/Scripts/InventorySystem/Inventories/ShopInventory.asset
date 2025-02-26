@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Slots:
   - Item: {fileID: 11400000, guid: 8bd62f41cce2ea74db4284a37b0ffa51, type: 2}
-    Amount: 4
+    Amount: 10
   - Item: {fileID: 11400000, guid: 160b341d8af1be649a15193e0b1f86b3, type: 2}
-    Amount: 4
+    Amount: 10
   - Item: {fileID: 11400000, guid: f4ecff5374aec4f40b7efcb1242ae38d, type: 2}
-    Amount: 4
+    Amount: 10
   - Item: {fileID: 11400000, guid: 9a02a2eb66308aa45864802ebd510005, type: 2}
-    Amount: 4
+    Amount: 10
