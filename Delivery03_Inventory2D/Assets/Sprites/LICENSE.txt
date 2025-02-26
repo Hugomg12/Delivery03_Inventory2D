@@ -1,0 +1,9 @@
+Item Icons Set 1 - Openmon Item Sprites
+
+80 32 * 32 item sprites and 20 16 * 16 icon sprites. Meant to be used in a monster catching game. These are the icons for the different items implemented in my game.
+
+License
+
+These are being released as a part of the Openmon project. These sprites are released under a CC0 License. They were created as a part of commissions that I ordered and have the full rights to. Use them however you want, no attribution needed.
+
+Link: https://screensmith.itch.io/item-icon-sprites-set-1-openmon

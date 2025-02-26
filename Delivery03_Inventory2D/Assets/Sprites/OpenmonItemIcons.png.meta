@@ -1,0 +1,2769 @@
+fileFormatVersion: 2
+guid: 829cf6f9cc636ac4ca639a1278130d55
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 607527062892229268
+    second: OpenmonItemIcons_0
+  - first:
+      213: -8931187395312960210
+    second: OpenmonItemIcons_1
+  - first:
+      213: -6303611892584757141
+    second: OpenmonItemIcons_2
+  - first:
+      213: -8124528061606188255
+    second: OpenmonItemIcons_3
+  - first:
+      213: 3599090473079867501
+    second: OpenmonItemIcons_4
+  - first:
+      213: 3295791903784372349
+    second: OpenmonItemIcons_5
+  - first:
+      213: -3396347766700812286
+    second: OpenmonItemIcons_6
+  - first:
+      213: -8239257261442548224
+    second: OpenmonItemIcons_7
+  - first:
+      213: -981096798242953038
+    second: OpenmonItemIcons_8
+  - first:
+      213: 1267460273138223509
+    second: OpenmonItemIcons_9
+  - first:
+      213: 3448873580621854205
+    second: OpenmonItemIcons_10
+  - first:
+      213: 5380242895681152543
+    second: OpenmonItemIcons_11
+  - first:
+      213: 2154375065215963280
+    second: OpenmonItemIcons_12
+  - first:
+      213: 1936781848245295189
+    second: OpenmonItemIcons_13
+  - first:
+      213: -7948876774568211252
+    second: OpenmonItemIcons_14
+  - first:
+      213: 4884448394838490379
+    second: OpenmonItemIcons_15
+  - first:
+      213: 5173829326318116597
+    second: OpenmonItemIcons_16
+  - first:
+      213: 5779708449882776900
+    second: OpenmonItemIcons_17
+  - first:
+      213: -2070664947582450232
+    second: OpenmonItemIcons_18
+  - first:
+      213: 8822652521281696360
+    second: OpenmonItemIcons_19
+  - first:
+      213: -8396425960999492622
+    second: OpenmonItemIcons_20
+  - first:
+      213: -7911815219859396215
+    second: OpenmonItemIcons_21
+  - first:
+      213: -1604204522596464865
+    second: OpenmonItemIcons_22
+  - first:
+      213: 8194727248027911059
+    second: OpenmonItemIcons_23
+  - first:
+      213: 1983356960461402573
+    second: OpenmonItemIcons_24
+  - first:
+      213: 7688807336772035046
+    second: OpenmonItemIcons_25
+  - first:
+      213: -6360713072271607039
+    second: OpenmonItemIcons_26
+  - first:
+      213: 1224066835246867524
+    second: OpenmonItemIcons_27
+  - first:
+      213: 6097864426945678345
+    second: OpenmonItemIcons_28
+  - first:
+      213: -7877883945263846259
+    second: OpenmonItemIcons_29
+  - first:
+      213: 1319767328022803983
+    second: OpenmonItemIcons_30
+  - first:
+      213: 5450060846365728036
+    second: OpenmonItemIcons_31
+  - first:
+      213: -6840694530457308673
+    second: OpenmonItemIcons_32
+  - first:
+      213: -4677519006279978911
+    second: OpenmonItemIcons_33
+  - first:
+      213: -5282865544137012580
+    second: OpenmonItemIcons_34
+  - first:
+      213: 39238633058601426
+    second: OpenmonItemIcons_35
+  - first:
+      213: -1403370149128535027
+    second: OpenmonItemIcons_36
+  - first:
+      213: 4811651220992640894
+    second: OpenmonItemIcons_37
+  - first:
+      213: -7690564650040327016
+    second: OpenmonItemIcons_38
+  - first:
+      213: -4002236762060279663
+    second: OpenmonItemIcons_39
+  - first:
+      213: -5834073387260071431
+    second: OpenmonItemIcons_40
+  - first:
+      213: 8737752085530516703
+    second: OpenmonItemIcons_41
+  - first:
+      213: 2080117064254452521
+    second: OpenmonItemIcons_42
+  - first:
+      213: 5596782884273485787
+    second: OpenmonItemIcons_43
+  - first:
+      213: 4496139036307049562
+    second: OpenmonItemIcons_44
+  - first:
+      213: 6358270973217393646
+    second: OpenmonItemIcons_45
+  - first:
+      213: -2100862993504246422
+    second: OpenmonItemIcons_46
+  - first:
+      213: -2060638965542680520
+    second: OpenmonItemIcons_47
+  - first:
+      213: -7698141729343649732
+    second: OpenmonItemIcons_48
+  - first:
+      213: -4199746690565679428
+    second: OpenmonItemIcons_49
+  - first:
+      213: 1707425681650689764
+    second: OpenmonItemIcons_50
+  - first:
+      213: 4207959723697137757
+    second: OpenmonItemIcons_51
+  - first:
+      213: -4321967274618125568
+    second: OpenmonItemIcons_52
+  - first:
+      213: -5440977398370399260
+    second: OpenmonItemIcons_53
+  - first:
+      213: 5950210640239042981
+    second: OpenmonItemIcons_54
+  - first:
+      213: -3822763067510437131
+    second: OpenmonItemIcons_55
+  - first:
+      213: 7538253112780383574
+    second: OpenmonItemIcons_56
+  - first:
+      213: -3144437358921063825
+    second: OpenmonItemIcons_57
+  - first:
+      213: -1249464277780112985
+    second: OpenmonItemIcons_58
+  - first:
+      213: -5016746043980091627
+    second: OpenmonItemIcons_59
+  - first:
+      213: 901476638326135716
+    second: OpenmonItemIcons_60
+  - first:
+      213: -3080851305143348508
+    second: OpenmonItemIcons_61
+  - first:
+      213: 4033110188536079800
+    second: OpenmonItemIcons_62
+  - first:
+      213: -3379412510627851674
+    second: OpenmonItemIcons_63
+  - first:
+      213: 3217213946643362429
+    second: OpenmonItemIcons_64
+  - first:
+      213: -8355772795090797169
+    second: OpenmonItemIcons_65
+  - first:
+      213: -1588627099250213332
+    second: OpenmonItemIcons_66
+  - first:
+      213: -8731556821354093258
+    second: OpenmonItemIcons_67
+  - first:
+      213: 7163787682173583617
+    second: OpenmonItemIcons_68
+  - first:
+      213: 521474152961706650
+    second: OpenmonItemIcons_69
+  - first:
+      213: -7889501431475449966
+    second: OpenmonItemIcons_70
+  - first:
+      213: -7139110887838115544
+    second: OpenmonItemIcons_71
+  - first:
+      213: 5104713096205733050
+    second: OpenmonItemIcons_72
+  - first:
+      213: -4466020013271043309
+    second: OpenmonItemIcons_73
+  - first:
+      213: 8304458305352188430
+    second: OpenmonItemIcons_74
+  - first:
+      213: -8019085718899029107
+    second: OpenmonItemIcons_75
+  - first:
+      213: 6794700197166374892
+    second: OpenmonItemIcons_76
+  - first:
+      213: -6925098074640295831
+    second: OpenmonItemIcons_77
+  - first:
+      213: -6028863088159424912
+    second: OpenmonItemIcons_78
+  - first:
+      213: 9094822216059529554
+    second: OpenmonItemIcons_79
+  - first:
+      213: -858860364860501251
+    second: OpenmonItemIcons_80
+  - first:
+      213: 6219711349982462492
+    second: OpenmonItemIcons_81
+  - first:
+      213: 8640369494171501421
+    second: OpenmonItemIcons_82
+  - first:
+      213: -7554691365890498463
+    second: OpenmonItemIcons_83
+  - first:
+      213: -8738638792488228678
+    second: OpenmonItemIcons_84
+  - first:
+      213: -2058569883245863253
+    second: OpenmonItemIcons_85
+  - first:
+      213: 3502175290771574068
+    second: OpenmonItemIcons_86
+  - first:
+      213: -1747036634616585915
+    second: OpenmonItemIcons_87
+  - first:
+      213: 6239312416952343265
+    second: OpenmonItemIcons_88
+  - first:
+      213: 2092788811230075612
+    second: OpenmonItemIcons_89
+  - first:
+      213: -8028834115802525737
+    second: OpenmonItemIcons_90
+  - first:
+      213: 4900122355888456749
+    second: OpenmonItemIcons_91
+  - first:
+      213: -1691810049894522226
+    second: OpenmonItemIcons_92
+  - first:
+      213: 1209451107705489988
+    second: OpenmonItemIcons_93
+  - first:
+      213: 5932746641719351375
+    second: OpenmonItemIcons_94
+  - first:
+      213: 6156217169564861403
+    second: OpenmonItemIcons_95
+  - first:
+      213: -680758936130023661
+    second: OpenmonItemIcons_96
+  - first:
+      213: 9198436759841834395
+    second: OpenmonItemIcons_97
+  - first:
+      213: -2369803754957277430
+    second: OpenmonItemIcons_98
+  - first:
+      213: 2664107108229151053
+    second: OpenmonItemIcons_99
+  - first:
+      213: -3330982559975278827
+    second: OpenmonItemIcons_100
+  - first:
+      213: -5331228948912311350
+    second: OpenmonItemIcons_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OpenmonItemIcons_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 242
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492b02715ae5e6800800000000000000
+      internalID: 607527062892229268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 243
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dbce7226c0e0480800000000000000
+      internalID: -8931187395312960210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 245
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68ce84b1621588a0800000000000000
+      internalID: -6303611892584757141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 245
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b254806c0ef3f80800000000000000
+      internalID: -8124528061606188255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 243
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d680b6a67b982f130800000000000000
+      internalID: 3599090473079867501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 243
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d780dae46410dbd20800000000000000
+      internalID: 3295791903784372349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 243
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2085b1863bfbdd0d0800000000000000
+      internalID: -3396347766700812286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 245
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00eb8a69c2748ad80800000000000000
+      internalID: -8239257261442548224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 247
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8a47af8a17262f0800000000000000
+      internalID: -981096798242953038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 244
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599c253376ce69110800000000000000
+      internalID: 1267460273138223509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 210
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5f138af3cdcdf20800000000000000
+      internalID: 3448873580621854205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 210
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16e46a68667aaa40800000000000000
+      internalID: 5380242895681152543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 210
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090182b15b0e5ed10800000000000000
+      internalID: 2154375065215963280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 209
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558d51854d4d0ea10800000000000000
+      internalID: 1936781848245295189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 211
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc428040baefa190800000000000000
+      internalID: -7948876774568211252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 211
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d331aafeb09c340800000000000000
+      internalID: 4884448394838490379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_16
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 212
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe90b33c522dc740800000000000000
+      internalID: 5173829326318116597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_17
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 211
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44526948636a53050800000000000000
+      internalID: 5779708449882776900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 211
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5ce7673358343e0800000000000000
+      internalID: -2070664947582450232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_19
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 211
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86233b349bb507a70800000000000000
+      internalID: 8822652521281696360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 178
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3e1cb1317e97b80800000000000000
+      internalID: -8396425960999492622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 178
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98960c3e9f5933290800000000000000
+      internalID: -7911815219859396215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_22
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 178
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1700937c78bcb9e0800000000000000
+      internalID: -1604204522596464865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 177
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3930be9b30589b170800000000000000
+      internalID: 8194727248027911059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_24
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 178
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1b913b5ac468b10800000000000000
+      internalID: 1983356960461402573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_25
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 180
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1e6b6298124ba60800000000000000
+      internalID: 7688807336772035046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_26
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 178
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b311949253ab7a0800000000000000
+      internalID: -6360713072271607039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_27
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 177
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444e9302d42ccf010800000000000000
+      internalID: 1224066835246867524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_28
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 179
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c86907367ff9450800000000000000
+      internalID: 6097864426945678345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_29
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 178
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cabc46a422ca290800000000000000
+      internalID: -7877883945263846259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 145
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0637f47461c05210800000000000000
+      internalID: 1319767328022803983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_31
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 146
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42dd4efc67182ab40800000000000000
+      internalID: 5450060846365728036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 147
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1722f6198f011a0800000000000000
+      internalID: -6840694530457308673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_33
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 146
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1603b801f3d161fb0800000000000000
+      internalID: -4677519006279978911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_34
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 146
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a009507cd7fa6b0800000000000000
+      internalID: -5282865544137012580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_35
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 148
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d90ee034576b8000800000000000000
+      internalID: 39238633058601426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_36
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 149
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d048ec4e84a368ce0800000000000000
+      internalID: -1403370149128535027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_37
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 145
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e774752da4b66c240800000000000000
+      internalID: 4811651220992640894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_38
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 145
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8948b287230a54590800000000000000
+      internalID: -7690564650040327016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_39
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 145
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1903362aed23578c0800000000000000
+      internalID: -4002236762060279663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 117
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1bdce1a25390fa0800000000000000
+      internalID: -5834073387260071431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_41
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 115
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc99792a3bb24970800000000000000
+      internalID: 8737752085530516703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_42
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 115
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9237d12f27f0edc10800000000000000
+      internalID: 2080117064254452521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_43
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 116
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd77b165164cbad40800000000000000
+      internalID: 5596782884273485787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_44
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 114
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c49d7c1ae756e30800000000000000
+      internalID: 4496139036307049562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_45
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 115
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebcc4833cd1d3850800000000000000
+      internalID: 6358270973217393646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a656a6efc3c38d2e0800000000000000
+      internalID: -2100862993504246422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_47
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 112
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838008057c32763e0800000000000000
+      internalID: -2060638965542680520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_48
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 116
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c384cd732e4ba2590800000000000000
+      internalID: -7698141729343649732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_49
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 117
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6d53ad2a087b5c0800000000000000
+      internalID: -4199746690565679428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 85
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e62b237c9ef1b710800000000000000
+      internalID: 1707425681650689764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_51
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 81
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d586e10f21da56a30800000000000000
+      internalID: 4207959723697137757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_52
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 82
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003068999a94504c0800000000000000
+      internalID: -4321967274618125568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_53
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 82
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb043b32e3cd74b0800000000000000
+      internalID: -5440977398370399260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_54
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 81
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1a23e3d05639250800000000000000
+      internalID: 5950210640239042981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_55
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 82
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5face847e31d2fac0800000000000000
+      internalID: -3822763067510437131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_56
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 84
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655e14644414d9860800000000000000
+      internalID: 7538253112780383574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_57
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 82
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62ea0bc1e6bc54d0800000000000000
+      internalID: -3144437358921063825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_58
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 82
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9506bfbd209aee0800000000000000
+      internalID: -1249464277780112985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_59
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 82
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f68388d00f06ab0800000000000000
+      internalID: -5016746043980091627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 49
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab1eb0f930b28c00800000000000000
+      internalID: 901476638326135716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_61
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 50
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2d12f9f0e9e35d0800000000000000
+      internalID: -3080851305143348508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_62
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 55
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5a3bf195c78f730800000000000000
+      internalID: 4033110188536079800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_63
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 51
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662148af93ae911d0800000000000000
+      internalID: -3379412510627851674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_64
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 53
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d723c18f907d5ac20800000000000000
+      internalID: 3217213946643362429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_65
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 53
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d7db4e9e45a0c80800000000000000
+      internalID: -8355772795090797169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_66
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 50
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2eb1a4f11014f9e0800000000000000
+      internalID: -1588627099250213332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_67
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 52
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635ec0f255743d680800000000000000
+      internalID: -8731556821354093258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_68
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101864a01f2ea6360800000000000000
+      internalID: 7163787682173583617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_69
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 67
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a84deaaf5ac3700800000000000000
+      internalID: 521474152961706650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_70
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 50
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f48f99f3cd28290800000000000000
+      internalID: -7889501431475449966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_71
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 49
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829194ed878ccec90800000000000000
+      internalID: -7139110887838115544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 25
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc80abd38597d640800000000000000
+      internalID: 5104713096205733050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_73
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 21
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313b13db5728502c0800000000000000
+      internalID: -4466020013271043309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_74
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 19
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e024f8e64dc5f3370800000000000000
+      internalID: 8304458305352188430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_75
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 17
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b8d9d860c76b090800000000000000
+      internalID: -8019085718899029107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_76
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 21
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefd06754df9b4e50800000000000000
+      internalID: 6794700197166374892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_77
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 22
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968d25aedfb15ef90800000000000000
+      internalID: -6925098074640295831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_78
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 16
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07efacea6fc255ca0800000000000000
+      internalID: -6028863088159424912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_79
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 16
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2592f8b7e9c473e70800000000000000
+      internalID: 9094822216059529554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_80
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 17
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2d3d07c07b414f0800000000000000
+      internalID: -858860364860501251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c128b25f48ad05650800000000000000
+      internalID: 6219711349982462492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63c63cb642c8e770800000000000000
+      internalID: 8640369494171501421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_83
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160e26caa38582790800000000000000
+      internalID: -7554691365890498463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab86a49415e1ab680800000000000000
+      internalID: -8738638792488228678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_85
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae10d3199d7e63e0800000000000000
+      internalID: -2058569883245863253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d07932fd93a9030800000000000000
+      internalID: 3502175290771574068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_87
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541a510ef6741c7e0800000000000000
+      internalID: -1747036634616585915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_88
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ead02ff59d769650800000000000000
+      internalID: 6239312416952343265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_89
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdad743f5541b0d10800000000000000
+      internalID: 2092788811230075612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df8d0709e9d39090800000000000000
+      internalID: -8028834115802525737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_91
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d248eaa125bb00440800000000000000
+      internalID: 4900122355888456749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_92
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82e99429bb7588e0800000000000000
+      internalID: -1691810049894522226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_93
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a0dffdf55d8c010800000000000000
+      internalID: 1209451107705489988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48d21a33a9555250800000000000000
+      internalID: 5932746641719351375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_95
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3031016e64f6550800000000000000
+      internalID: 6156217169564861403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_96
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f0c4aba557d86f0800000000000000
+      internalID: -680758936130023661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_97
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9584476f7967af70800000000000000
+      internalID: 9198436759841834395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0772666a04cc1fd0800000000000000
+      internalID: -2369803754957277430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_99
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d497795cc4fc8f420800000000000000
+      internalID: 2664107108229151053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_100
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517f6af8209f5c1d0800000000000000
+      internalID: -3330982559975278827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_101
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac37dcb548ba306b0800000000000000
+      internalID: -5331228948912311350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      OpenmonItemIcons_0: 607527062892229268
+      OpenmonItemIcons_1: -8931187395312960210
+      OpenmonItemIcons_10: 3448873580621854205
+      OpenmonItemIcons_100: -3330982559975278827
+      OpenmonItemIcons_101: -5331228948912311350
+      OpenmonItemIcons_11: 5380242895681152543
+      OpenmonItemIcons_12: 2154375065215963280
+      OpenmonItemIcons_13: 1936781848245295189
+      OpenmonItemIcons_14: -7948876774568211252
+      OpenmonItemIcons_15: 4884448394838490379
+      OpenmonItemIcons_16: 5173829326318116597
+      OpenmonItemIcons_17: 5779708449882776900
+      OpenmonItemIcons_18: -2070664947582450232
+      OpenmonItemIcons_19: 8822652521281696360
+      OpenmonItemIcons_2: -6303611892584757141
+      OpenmonItemIcons_20: -8396425960999492622
+      OpenmonItemIcons_21: -7911815219859396215
+      OpenmonItemIcons_22: -1604204522596464865
+      OpenmonItemIcons_23: 8194727248027911059
+      OpenmonItemIcons_24: 1983356960461402573
+      OpenmonItemIcons_25: 7688807336772035046
+      OpenmonItemIcons_26: -6360713072271607039
+      OpenmonItemIcons_27: 1224066835246867524
+      OpenmonItemIcons_28: 6097864426945678345
+      OpenmonItemIcons_29: -7877883945263846259
+      OpenmonItemIcons_3: -8124528061606188255
+      OpenmonItemIcons_30: 1319767328022803983
+      OpenmonItemIcons_31: 5450060846365728036
+      OpenmonItemIcons_32: -6840694530457308673
+      OpenmonItemIcons_33: -4677519006279978911
+      OpenmonItemIcons_34: -5282865544137012580
+      OpenmonItemIcons_35: 39238633058601426
+      OpenmonItemIcons_36: -1403370149128535027
+      OpenmonItemIcons_37: 4811651220992640894
+      OpenmonItemIcons_38: -7690564650040327016
+      OpenmonItemIcons_39: -4002236762060279663
+      OpenmonItemIcons_4: 3599090473079867501
+      OpenmonItemIcons_40: -5834073387260071431
+      OpenmonItemIcons_41: 8737752085530516703
+      OpenmonItemIcons_42: 2080117064254452521
+      OpenmonItemIcons_43: 5596782884273485787
+      OpenmonItemIcons_44: 4496139036307049562
+      OpenmonItemIcons_45: 6358270973217393646
+      OpenmonItemIcons_46: -2100862993504246422
+      OpenmonItemIcons_47: -2060638965542680520
+      OpenmonItemIcons_48: -7698141729343649732
+      OpenmonItemIcons_49: -4199746690565679428
+      OpenmonItemIcons_5: 3295791903784372349
+      OpenmonItemIcons_50: 1707425681650689764
+      OpenmonItemIcons_51: 4207959723697137757
+      OpenmonItemIcons_52: -4321967274618125568
+      OpenmonItemIcons_53: -5440977398370399260
+      OpenmonItemIcons_54: 5950210640239042981
+      OpenmonItemIcons_55: -3822763067510437131
+      OpenmonItemIcons_56: 7538253112780383574
+      OpenmonItemIcons_57: -3144437358921063825
+      OpenmonItemIcons_58: -1249464277780112985
+      OpenmonItemIcons_59: -5016746043980091627
+      OpenmonItemIcons_6: -3396347766700812286
+      OpenmonItemIcons_60: 901476638326135716
+      OpenmonItemIcons_61: -3080851305143348508
+      OpenmonItemIcons_62: 4033110188536079800
+      OpenmonItemIcons_63: -3379412510627851674
+      OpenmonItemIcons_64: 3217213946643362429
+      OpenmonItemIcons_65: -8355772795090797169
+      OpenmonItemIcons_66: -1588627099250213332
+      OpenmonItemIcons_67: -8731556821354093258
+      OpenmonItemIcons_68: 7163787682173583617
+      OpenmonItemIcons_69: 521474152961706650
+      OpenmonItemIcons_7: -8239257261442548224
+      OpenmonItemIcons_70: -7889501431475449966
+      OpenmonItemIcons_71: -7139110887838115544
+      OpenmonItemIcons_72: 5104713096205733050
+      OpenmonItemIcons_73: -4466020013271043309
+      OpenmonItemIcons_74: 8304458305352188430
+      OpenmonItemIcons_75: -8019085718899029107
+      OpenmonItemIcons_76: 6794700197166374892
+      OpenmonItemIcons_77: -6925098074640295831
+      OpenmonItemIcons_78: -6028863088159424912
+      OpenmonItemIcons_79: 9094822216059529554
+      OpenmonItemIcons_8: -981096798242953038
+      OpenmonItemIcons_80: -858860364860501251
+      OpenmonItemIcons_81: 6219711349982462492
+      OpenmonItemIcons_82: 8640369494171501421
+      OpenmonItemIcons_83: -7554691365890498463
+      OpenmonItemIcons_84: -8738638792488228678
+      OpenmonItemIcons_85: -2058569883245863253
+      OpenmonItemIcons_86: 3502175290771574068
+      OpenmonItemIcons_87: -1747036634616585915
+      OpenmonItemIcons_88: 6239312416952343265
+      OpenmonItemIcons_89: 2092788811230075612
+      OpenmonItemIcons_9: 1267460273138223509
+      OpenmonItemIcons_90: -8028834115802525737
+      OpenmonItemIcons_91: 4900122355888456749
+      OpenmonItemIcons_92: -1691810049894522226
+      OpenmonItemIcons_93: 1209451107705489988
+      OpenmonItemIcons_94: 5932746641719351375
+      OpenmonItemIcons_95: 6156217169564861403
+      OpenmonItemIcons_96: -680758936130023661
+      OpenmonItemIcons_97: 9198436759841834395
+      OpenmonItemIcons_98: -2369803754957277430
+      OpenmonItemIcons_99: 2664107108229151053
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

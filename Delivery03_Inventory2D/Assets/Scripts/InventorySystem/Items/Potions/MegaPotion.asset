@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a8b488c33b92e14ea5d7d1ee0a54dfd, type: 3}
+  m_Name: MegaPotion
+  m_EditorClassIdentifier: 
+  Name: MegaPotion
+  ImageUI: {fileID: 8194727248027911059, guid: 829cf6f9cc636ac4ca639a1278130d55, type: 3}
+  IsStackable: 1
+  Cost: 40
+  HealthPoints: 100
