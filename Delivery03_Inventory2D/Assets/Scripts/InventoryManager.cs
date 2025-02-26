@@ -4,6 +4,7 @@ using UnityEngine.EventSystems;
 using System.Collections.Generic;
 using TMPro;
 
+
 public class InventoryManager : MonoBehaviour
 {
     public static InventoryManager Instance;
@@ -117,5 +118,47 @@ public class InventoryManager : MonoBehaviour
             coinsText.text = "Coins: " + playerCoins;
         }
         // Aquí actualizarías la interfaz gráfica según cómo estén implementados los inventarios en tu juego.
+    }
+
+    public void UseItem()
+    {
+        // Verificar si hay un objeto seleccionado y si es consumible
+        if (selectedItem != null && selectedItem.Item is ConsumableItem consumableItem)
+        {
+            // Verificar si el objeto está en el inventario del jugador
+            if (playerInventory.ContainsItem(selectedItem.Item))
+            {
+                // Obtener el consumidor (en este caso, el SkullHealth)
+                IConsume consumer = FindAnyObjectByType<SkullHealth>(); // Usar FindAnyObjectByType en lugar de FindObjectOfType
+
+                if (consumer != null)
+                {
+                    // Usar el objeto consumible
+                    consumableItem.Use(consumer);
+
+                    // Eliminar el objeto del inventario si es de un solo uso
+                    playerInventory.RemoveItem(selectedItem.Item);
+
+                    // Deseleccionar el objeto y actualizar la UI
+                    selectedItem.SelectItem(false);
+                    selectedItem = null;
+                    UpdateUI();
+
+                    Debug.Log("Item used!");
+                }
+                else
+                {
+                    Debug.LogError("No consumer found!");
+                }
+            }
+            else
+            {
+                Debug.Log("Item not found in player inventory!");
+            }
+        }
+        else
+        {
+            Debug.Log("No consumable item selected!");
+        }
     }
 }

@@ -17,4 +17,4 @@ MonoBehaviour:
     type: 3}
   IsStackable: 1
   Cost: 15
-  EnergyPoints: 15
+  EnergyPoints: 5

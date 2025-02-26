@@ -4,4 +4,5 @@ using UnityEngine;
 public class ItemFood : ItemBase
 {
     public int EnergyPoints;
+
 }
